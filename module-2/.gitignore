@@ -1,0 +1,7 @@
+# Local environment
+.DS_Store
+.env
+*.log
+
+# Editor folders
+.vscode/
